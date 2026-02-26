@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    background-color: #f8f9fa;
+    font-family: Arial, sans-serif;
+  }
+
+  .container {
+    width: 90%;
+    margin: 50px auto;
+  }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: #ffffff;
+  }
+
+  thead {
+    background-color: #f1f1f1;
+  }
+
+  th {
+    text-align: left;
+    padding: 20px;
+    font-weight: bold;
+    color: #555;
+    font-size: 14px;
+  }
+
+  td {
+    padding: 20px;
+    font-size: 14px;
+    color: #333;
+  }
+
+
+
+  
